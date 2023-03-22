@@ -1,8 +1,5 @@
 # IWANNADIE
 ## what is this?
-this is just the source code for some crappy ransomware i wrote 
-emotionally drunk and depressed to supress my intrusive suicidal thoughts
-
 it uses rust or something
 ...idk i just press buttons all day...
 
