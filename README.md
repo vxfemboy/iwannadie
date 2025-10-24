@@ -193,7 +193,7 @@ Continue with scanning the files:
         println!("[+] Dropped ransom message!");
     }
 }
-
+```
 Okaiii! fun stuff happening right here!
 
 we print out the token from the generated uuid earlier and add that to the ransom note/love letter (decrypt my heart bb)
